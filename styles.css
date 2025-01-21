@@ -117,3 +117,9 @@ header p {
     margin: 0;
     font-size: 0.9rem;
 }
+
+#track {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
